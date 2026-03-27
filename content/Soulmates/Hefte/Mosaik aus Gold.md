@@ -5,6 +5,7 @@ description: "Soulmates Heft 3. ~530 n. Chr., Konstantinopel."
 ---
 
 > [!infobox] Mosaik aus Gold
+> ![Cover Heft 3](../Covers/soulmates-heft-3.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Soulmates]] |

@@ -5,6 +5,7 @@ description: "Soulmates Heft 2. 120 n. Chr., Rom."
 ---
 
 > [!infobox] Im Schatten des Imperiums
+> ![Cover Heft 2](../Covers/soulmates-heft-2.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Soulmates]] |
