@@ -1,0 +1,67 @@
+@use "./base.scss";
+
+// ============================================================
+// LEGENDENREICH — Custom Styles
+// ============================================================
+
+// Infobox Callout (rechts floatend, wie MediaWiki)
+.callout[data-callout="infobox"] {
+  float: right;
+  width: 300px;
+  margin: 0 0 1em 1.5em;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+  font-size: 0.88em;
+
+  .callout-title {
+    background: var(--lightgray);
+    padding: 8px 12px;
+    font-size: 1.15em;
+    color: var(--secondary);
+
+    .callout-icon {
+      display: none;
+    }
+  }
+
+  .callout-content {
+    padding: 4px 8px;
+
+    table {
+      margin: 0;
+      width: 100%;
+
+      td:first-child {
+        font-weight: bold;
+        color: var(--gray);
+        white-space: nowrap;
+        width: 40%;
+      }
+    }
+  }
+}
+
+// Spoiler-Callouts (danger type, klappbar)
+.callout[data-callout="danger"] {
+  border-color: #8b0000;
+
+  .callout-title {
+    color: #ff6b6b;
+    background: rgba(139, 0, 0, 0.1);
+  }
+}
+
+// Clear floats nach Infoboxen
+h2 {
+  clear: both;
+}
+
+// Mobile: Infobox volle Breite
+@media (max-width: 768px) {
+  .callout[data-callout="infobox"] {
+    float: none;
+    width: 100%;
+    margin: 0 0 1em 0;
+  }
+}

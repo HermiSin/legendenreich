@@ -1,0 +1,46 @@
+---
+title: Legendenreich
+description: "Das Wiki des Fünfgroschenverlags — Welten entdecken, Figuren verstehen, Geschichten neu erleben."
+---
+
+# Willkommen im Legendenreich
+
+**Legendenreich** ist das offizielle Wiki des [Fünfgroschenverlags](https://www.amazon.de/stores/H.-Sinther/author/B0DQHX8S7N). Hier findest du alles über die Welten, Figuren und Geschichten unserer MM-Romance-Serien — von den antiken Straßen Athens über die Kreuzzüge bis ins elisabethanische London.
+
+Dieses Wiki ist dein Begleiter: Schlage nach, entdecke Verbindungen zwischen den Epochen und tauche tiefer ein als jedes Heft es allein kann.
+
+> [!warning] Spoiler-Warnung
+> Wir schützen dein Leseerlebnis. Spoiler-Inhalte sind hinter klappbaren Blöcken versteckt und mit dem jeweiligen Heft gekennzeichnet. Öffne nur, was du schon gelesen hast.
+
+## Serien
+
+### [[Soulmates]]
+*Zwei Seelen. Ein goldener Faden. Acht Epochen.*
+
+Die Flaggschiff-Serie des Verlags. Zwei Seelen finden sich in jeder Epoche wieder — verbunden durch ein sichelförmiges Mondmal, eine Melodie aus drei Tönen und einen goldenen Ring mit der Gravur ΧΝ: *Chrysónima*, der goldene Faden.
+
+**8 Hefte** · Antikes Athen bis London 1598 · [[Soulmates#Hefte|Alle Hefte →]]
+
+### Weitere Serien
+*Bald im Legendenreich:*
+- Spartan Blood
+- Wilde Herzen
+- Amor Romanus
+- Schattenfrequenz Berlin 86
+- *und viele mehr …*
+
+## Erkunden
+
+- **[[Soulmates]]** — Die komplette Serienseite
+- **Figuren** — Entdecke die [[Alexios|Protagonisten]] und ihre Geschichten
+- **Hefte** — Alle [[Soulmates/Hefte/Der erste Faden|8 Hefte]] im Überblick
+
+## Über den Verlag
+
+Der **Fünfgroschenverlag** erzählt queere Liebesgeschichten mit Respekt, Leidenschaft und handwerklicher Exzellenz. Keine Geschichten, die ein Produkt sind — Geschichten, die ein Spiegel sind.
+
+Unsere Serien erscheinen als Romanhefte bei [Amazon Kindle Unlimited](https://www.amazon.de/kindle-dbs/entity/author/B0DQHX8S7N).
+
+---
+
+[hsinther.com](https://www.hsinther.com) · [TikTok](https://www.tiktok.com/@hsinther) · [Instagram](https://www.instagram.com/h.sinther)
