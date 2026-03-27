@@ -5,7 +5,7 @@ description: "Soulmates Heft 1. ~430 v. Chr., Athen."
 ---
 
 > [!infobox] Der erste Faden
-> ![Cover Heft 1](../Covers/soulmates-heft-1.jpg)
+> ![Cover Heft 1](/Soulmates/Covers/soulmates-heft-1.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Soulmates]] |
