@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 8. Kratos und Phedon."
 ---
 
 > [!infobox] Das Orakel des Krieges
+> ![Cover Heft 8](/Spartan Blood/Covers/spartan-blood-heft-8.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

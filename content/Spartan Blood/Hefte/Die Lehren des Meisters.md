@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 5. Eander und Theras."
 ---
 
 > [!infobox] Die Lehren des Meisters
+> ![Cover Heft 5](/Spartan Blood/Covers/spartan-blood-heft-5.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

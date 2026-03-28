@@ -28,10 +28,16 @@ Die Eiserne Phalanx: 48 Männer, handverlesen von König Leonidas, sichern den g
 
 **24 Hefte** · Antikes Sparta, Perserkriege · [[Spartan Blood#Hefte|Alle Hefte →]]
 
+### [[Amor Romanus]]
+*Verbotene Leidenschaften im Schatten der Caesaren.*
+
+29 eigenständige Liebesgeschichten im Römischen Reich -- jede verankert durch ein archäologisches Fundstück als emotionalen Katalysator. Von den Thermen Pompejis über die Legionslager am Limes bis zu den Tempeln Alexandrias.
+
+**29 Hefte** · Römisches Reich, 1.--3. Jh. n. Chr. · [[Amor Romanus#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
 - Wilde Herzen
-- Amor Romanus
 - Schattenfrequenz Berlin 86
 - *und viele mehr …*
 
@@ -39,8 +45,8 @@ Die Eiserne Phalanx: 48 Männer, handverlesen von König Leonidas, sichern den g
 
 - **[[Soulmates]]** — Zwei Seelen, ein goldener Faden, acht Epochen
 - **[[Spartan Blood]]** — 48 Krieger, 24 Liebesgeschichten, ein Pass
-- **Figuren** — Entdecke die [[Alexios|Protagonisten]] und ihre Geschichten
-- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]]
+- **[[Amor Romanus]]** — 29 Fundstücke, 29 Liebesgeschichten im Römischen Reich
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]]
 
 ## Über den Verlag
 

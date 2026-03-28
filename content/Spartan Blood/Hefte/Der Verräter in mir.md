@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 14. Lykon von Sparta und Demetrios von Argos."
 ---
 
 > [!infobox] Der Verräter in mir
+> ![Cover Heft 14](/Spartan Blood/Covers/spartan-blood-heft-14.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

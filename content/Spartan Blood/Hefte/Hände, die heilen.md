@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 10. Silas und Xander."
 ---
 
 > [!infobox] Hände, die heilen
+> ![Cover Heft 10](/Spartan Blood/Covers/spartan-blood-heft-10.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

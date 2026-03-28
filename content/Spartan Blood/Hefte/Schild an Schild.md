@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 17. Nikodemos und Idas."
 ---
 
 > [!infobox] Schild an Schild
+> ![Cover Heft 17](/Spartan Blood/Covers/spartan-blood-heft-17.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

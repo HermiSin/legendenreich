@@ -9,6 +9,7 @@ tags:
 ---
 
 > [!infobox] Spartan Blood
+> ![Cover Spartan Blood](/Spartan Blood/Covers/spartan-blood-heft-1.jpg)
 > | | |
 > |---|---|
 > | **Genre** | MM Romance |

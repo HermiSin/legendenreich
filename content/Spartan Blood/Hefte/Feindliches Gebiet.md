@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 13. Nearchos und Aristos."
 ---
 
 > [!infobox] Feindliches Gebiet
+> ![Cover Heft 13](/Spartan Blood/Covers/spartan-blood-heft-13.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

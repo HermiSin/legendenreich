@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 24. Grand Finale. Alexios und Demos."
 ---
 
 > [!infobox] Triumph der Herzen
+> ![Cover Heft 24](/Spartan Blood/Covers/spartan-blood-heft-24.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

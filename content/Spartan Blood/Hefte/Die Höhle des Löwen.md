@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 21. Idas (Kartograph) und Orion."
 ---
 
 > [!infobox] Die Höhle des Löwen
+> ![Cover Heft 21](/Spartan Blood/Covers/spartan-blood-heft-21.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

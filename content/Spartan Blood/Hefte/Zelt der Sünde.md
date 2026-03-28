@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 9. Theron von Sparta und Kallias."
 ---
 
 > [!infobox] Zelt der Sünde
+> ![Cover Heft 9](/Spartan Blood/Covers/spartan-blood-heft-9.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

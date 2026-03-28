@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 20. Theron (Abschnittsführer) und Nikias."
 ---
 
 > [!infobox] Opfer für die Liebe
+> ![Cover Heft 20](/Spartan Blood/Covers/spartan-blood-heft-20.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 11. Peiros von Korinth und Drakos."
 ---
 
 > [!infobox] Wache über mein Herz
+> ![Cover Heft 11](/Spartan Blood/Covers/spartan-blood-heft-11.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

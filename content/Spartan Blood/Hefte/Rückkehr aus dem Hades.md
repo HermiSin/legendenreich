@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 18. Demetrios von Argos und Kallias."
 ---
 
 > [!infobox] Rückkehr aus dem Hades
+> ![Cover Heft 18](/Spartan Blood/Covers/spartan-blood-heft-18.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

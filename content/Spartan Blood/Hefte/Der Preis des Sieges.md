@@ -5,6 +5,7 @@ description: "Spartan Blood Heft 23. Erastos und Pyrros."
 ---
 
 > [!infobox] Der Preis des Sieges
+> ![Cover Heft 23](/Spartan Blood/Covers/spartan-blood-heft-23.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |
