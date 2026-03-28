@@ -42,9 +42,15 @@ MM Legal Romance in der Kleinstadt Oakhaven, Virginia. Verteidiger Oliver Thorne
 
 **10 Hefte** · Oakhaven, Virginia · [[Blue Ridge Law#Hefte|Alle Hefte →]]
 
+### [[Wilde Herzen]]
+*Wilde Herzen im Westen. Liebe in einer Zeit, in der sie unsagbar war.*
+
+Historical Western MM Romance im amerikanischen Westen der 1870er-1890er Jahre. Jedes Heft erzählt eine abgeschlossene Liebesgeschichte zwischen zwei männlichen Protagonisten -- von Sheriffs und Saloon-Besitzern über Prediger und Banditen bis zu Fotografen und Zeitungsredakteuren.
+
+**9 Hefte** · Wilder Westen, 1870er-1890er · [[Wilde Herzen#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
-- Wilde Herzen
 - Schattenfrequenz Berlin 86
 - *und viele mehr …*
 
@@ -54,7 +60,8 @@ MM Legal Romance in der Kleinstadt Oakhaven, Virginia. Verteidiger Oliver Thorne
 - **[[Spartan Blood]]** — 48 Krieger, 24 Liebesgeschichten, ein Pass
 - **[[Amor Romanus]]** — 29 Fundstücke, 29 Liebesgeschichten im Römischen Reich
 - **[[Blue Ridge Law]]** — 10 Hefte, Legal Romance in Oakhaven, Virginia
-- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]]
+- **[[Wilde Herzen]]** -- 9 Hefte, Historical Western Romance im Wilden Westen
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]]
 
 ## Über den Verlag
 
