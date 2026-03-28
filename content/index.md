@@ -35,6 +35,13 @@ Die Eiserne Phalanx: 48 Männer, handverlesen von König Leonidas, sichern den g
 
 **29 Hefte** · Römisches Reich, 1.--3. Jh. n. Chr. · [[Amor Romanus#Hefte|Alle Hefte →]]
 
+### [[Blue Ridge Law]]
+*Im Gerichtssaal Gegner. Im Herzen nie getrennt.*
+
+MM Legal Romance in der Kleinstadt Oakhaven, Virginia. Verteidiger Oliver Thorne und Staatsanwalt Caleb Vance kreuzen die Klingen — im Gerichtssaal als Gegner, privat als ehemalige Jugendliebe. Jedes Heft ein abgeschlossener Kriminalfall, ein Cold Case verbindet alles.
+
+**10 Hefte** · Oakhaven, Virginia · [[Blue Ridge Law#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
 - Wilde Herzen
@@ -46,7 +53,8 @@ Die Eiserne Phalanx: 48 Männer, handverlesen von König Leonidas, sichern den g
 - **[[Soulmates]]** — Zwei Seelen, ein goldener Faden, acht Epochen
 - **[[Spartan Blood]]** — 48 Krieger, 24 Liebesgeschichten, ein Pass
 - **[[Amor Romanus]]** — 29 Fundstücke, 29 Liebesgeschichten im Römischen Reich
-- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]]
+- **[[Blue Ridge Law]]** — 10 Hefte, Legal Romance in Oakhaven, Virginia
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]]
 
 ## Über den Verlag
 
