@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 1. Alexios und Demos."
 ---
 
 > [!infobox] Der Befehl des Generals
-> ![Cover Heft 1](/Spartan Blood/Covers/spartan-blood-heft-1.jpg)
+> ![Cover Heft 1](/Spartan-Blood/Covers/spartan-blood-heft-1.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

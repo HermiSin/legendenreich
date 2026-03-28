@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!infobox] Amor Romanus
-> ![Cover Amor Romanus](/Amor Romanus/Covers/amor-romanus-heft-1.jpg)
+> ![Cover Amor Romanus](/Amor-Romanus/Covers/amor-romanus-heft-1.jpg)
 > | | |
 > |---|---|
 > | **Genre** | MM Romance |

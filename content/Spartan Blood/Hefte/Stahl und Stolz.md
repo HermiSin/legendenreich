@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 2. Kastor und Pollux."
 ---
 
 > [!infobox] Stahl und Stolz
-> ![Cover Heft 2](/Spartan Blood/Covers/spartan-blood-heft-2.jpg)
+> ![Cover Heft 2](/Spartan-Blood/Covers/spartan-blood-heft-2.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

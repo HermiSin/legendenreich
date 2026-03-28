@@ -5,7 +5,7 @@ description: "Amor Romanus Heft 1. Lucius Aemilius und Nico."
 ---
 
 > [!infobox] Der Silberring des Erben
-> ![Cover Heft 1](/Amor Romanus/Covers/amor-romanus-heft-1.jpg)
+> ![Cover Heft 1](/Amor-Romanus/Covers/amor-romanus-heft-1.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Amor Romanus]] |

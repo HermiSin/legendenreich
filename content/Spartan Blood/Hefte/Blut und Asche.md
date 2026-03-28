@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 15. Elias und Theron."
 ---
 
 > [!infobox] Blut und Asche
-> ![Cover Heft 15](/Spartan Blood/Covers/spartan-blood-heft-15.jpg)
+> ![Cover Heft 15](/Spartan-Blood/Covers/spartan-blood-heft-15.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

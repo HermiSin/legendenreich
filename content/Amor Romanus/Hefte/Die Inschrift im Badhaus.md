@@ -5,7 +5,7 @@ description: "Amor Romanus Heft 2. Aulus und Helios."
 ---
 
 > [!infobox] Die Inschrift im Badhaus
-> ![Cover Heft 2](/Amor Romanus/Covers/amor-romanus-heft-2.jpg)
+> ![Cover Heft 2](/Amor-Romanus/Covers/amor-romanus-heft-2.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Amor Romanus]] |

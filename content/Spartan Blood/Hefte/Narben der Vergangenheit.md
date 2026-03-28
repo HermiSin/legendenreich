@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 4. Lykos und Hektor."
 ---
 
 > [!infobox] Narben der Vergangenheit
-> ![Cover Heft 4](/Spartan Blood/Covers/spartan-blood-heft-4.jpg)
+> ![Cover Heft 4](/Spartan-Blood/Covers/spartan-blood-heft-4.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

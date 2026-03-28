@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 16. Lykon (Skirmisher) und Peiros (Strategos)."
 ---
 
 > [!infobox] Die Maske des Spötters
-> ![Cover Heft 16](/Spartan Blood/Covers/spartan-blood-heft-16.jpg)
+> ![Cover Heft 16](/Spartan-Blood/Covers/spartan-blood-heft-16.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

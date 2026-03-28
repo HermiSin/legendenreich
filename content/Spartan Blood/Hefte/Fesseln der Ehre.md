@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 7. Kyros und Philippos."
 ---
 
 > [!infobox] Fesseln der Ehre
-> ![Cover Heft 7](/Spartan Blood/Covers/spartan-blood-heft-7.jpg)
+> ![Cover Heft 7](/Spartan-Blood/Covers/spartan-blood-heft-7.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

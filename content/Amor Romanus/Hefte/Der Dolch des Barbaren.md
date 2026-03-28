@@ -5,7 +5,7 @@ description: "Amor Romanus Heft 3. Caius Valerius Aquila und Ewan."
 ---
 
 > [!infobox] Der Dolch des Barbaren
-> ![Cover Heft 3](/Amor Romanus/Covers/amor-romanus-heft-3.jpg)
+> ![Cover Heft 3](/Amor-Romanus/Covers/amor-romanus-heft-3.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Amor Romanus]] |

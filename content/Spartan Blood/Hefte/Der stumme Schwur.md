@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 12. Kratinos und Philon."
 ---
 
 > [!infobox] Der stumme Schwur
-> ![Cover Heft 12](/Spartan Blood/Covers/spartan-blood-heft-12.jpg)
+> ![Cover Heft 12](/Spartan-Blood/Covers/spartan-blood-heft-12.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

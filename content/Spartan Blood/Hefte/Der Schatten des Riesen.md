@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 3. Ajax und Nikos."
 ---
 
 > [!infobox] Der Schatten des Riesen
-> ![Cover Heft 3](/Spartan Blood/Covers/spartan-blood-heft-3.jpg)
+> ![Cover Heft 3](/Spartan-Blood/Covers/spartan-blood-heft-3.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

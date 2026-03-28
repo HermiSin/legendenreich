@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 22. Telamon und Alkion."
 ---
 
 > [!infobox] Brennende Himmel
-> ![Cover Heft 22](/Spartan Blood/Covers/spartan-blood-heft-22.jpg)
+> ![Cover Heft 22](/Spartan-Blood/Covers/spartan-blood-heft-22.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |

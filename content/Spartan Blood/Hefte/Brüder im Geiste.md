@@ -5,7 +5,7 @@ description: "Spartan Blood Heft 6. Dion und Aris."
 ---
 
 > [!infobox] Brüder im Geiste
-> ![Cover Heft 6](/Spartan Blood/Covers/spartan-blood-heft-6.jpg)
+> ![Cover Heft 6](/Spartan-Blood/Covers/spartan-blood-heft-6.jpg)
 > | | |
 > |---|---|
 > | **Serie** | [[Spartan Blood]] |
