@@ -21,9 +21,15 @@ Die Flaggschiff-Serie des Verlags. Zwei Seelen finden sich in jeder Epoche wiede
 
 **8 Hefte** · Antikes Athen bis London 1598 · [[Soulmates#Hefte|Alle Hefte →]]
 
+### [[Spartan Blood]]
+*48 Krieger. 24 Liebesgeschichten. Ein Pass, der Sparta retten muss.*
+
+Die Eiserne Phalanx: 48 Männer, handverlesen von König Leonidas, sichern den geheimen Schattenpass im Norden -- einen Zugang nach Lakonien, der Sparta vernichten könnte. Jedes Heft erzählt die Liebesgeschichte eines Paares, verbunden durch den Krieg gegen die Perser.
+
+**24 Hefte** · Antikes Sparta, Perserkriege · [[Spartan Blood#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
-- Spartan Blood
 - Wilde Herzen
 - Amor Romanus
 - Schattenfrequenz Berlin 86
@@ -31,9 +37,10 @@ Die Flaggschiff-Serie des Verlags. Zwei Seelen finden sich in jeder Epoche wiede
 
 ## Erkunden
 
-- **[[Soulmates]]** — Die komplette Serienseite
+- **[[Soulmates]]** — Zwei Seelen, ein goldener Faden, acht Epochen
+- **[[Spartan Blood]]** — 48 Krieger, 24 Liebesgeschichten, ein Pass
 - **Figuren** — Entdecke die [[Alexios|Protagonisten]] und ihre Geschichten
-- **Hefte** — Alle [[Soulmates/Hefte/Der erste Faden|8 Hefte]] im Überblick
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]]
 
 ## Über den Verlag
 
