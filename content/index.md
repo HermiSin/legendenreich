@@ -49,6 +49,13 @@ Historical Western MM Romance im amerikanischen Westen der 1870er-1890er Jahre. 
 
 **9 Hefte** · Wilder Westen, 1870er-1890er · [[Wilde Herzen#Hefte|Alle Hefte →]]
 
+### [[Kings of Montana]]
+*Romeo & Julia mit Cowboys. Nur brutaler.*
+
+Neo-Western MM Romance im fiktiven Bitterroot Valley, Montana. Zwei verfeindete Rancher-Familien, ein unterdrückter Kronprinz und ein künstlerischer Rückkehrer -- Enemies to Lovers mit Stacheldraht, Blizzards und einem Staffelfinale, das alles kostet.
+
+**15 Hefte** · Bitterroot Valley, Montana · [[Kings of Montana#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
 - Schattenfrequenz Berlin 86
@@ -61,7 +68,8 @@ Historical Western MM Romance im amerikanischen Westen der 1870er-1890er Jahre. 
 - **[[Amor Romanus]]** — 29 Fundstücke, 29 Liebesgeschichten im Römischen Reich
 - **[[Blue Ridge Law]]** — 10 Hefte, Legal Romance in Oakhaven, Virginia
 - **[[Wilde Herzen]]** -- 9 Hefte, Historical Western Romance im Wilden Westen
-- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]]
+- **[[Kings of Montana]]** -- 15 Hefte, Neo-Western Romance im Bitterroot Valley
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]] · [[Kings of Montana/Hefte/Blutiger Boden|Kings of Montana (15 Hefte)]]
 
 ## Über den Verlag
 
