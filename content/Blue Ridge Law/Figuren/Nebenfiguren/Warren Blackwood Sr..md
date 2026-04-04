@@ -18,4 +18,4 @@ aliases: [Blackwood, Warren Blackwood]
 **Warren Blackwood Sr.** ist der zentrale Antagonist der Serie **[[Blue Ridge Law]]**. Er ist pensionierter Bezirksrichter, Gründer von Blackwood Development und der Drahtzieher hinter 8 Frauenmorden über 35 Jahre in Oakhaven.
 
 > [!danger]- ⚠ Spoiler — Heft 10: Das Urteil von Oakhaven
-> Warren Blackwood Sr. wird in 18 Anklagepunkten schuldig gesprochen. Sein Sohn [[Warren Blackwood Jr.]] wird Kronzeuge gegen ihn. [[Bartholomew "Bart" Stone|Bart Stone]] bricht sein Schweigen und enthüllt: Die Blackwoods waren "nur Soldaten" — ein Hinweis auf ein noch größeres Netzwerk.
+> Warren Blackwood Sr. wird in 18 Anklagepunkten schuldig gesprochen. Sein Sohn [[Warren Blackwood Jr.]] wird Kronzeuge gegen ihn. [[Bartholomew (Bart) Stone|Bart Stone]] bricht sein Schweigen und enthüllt: Die Blackwoods waren "nur Soldaten" — ein Hinweis auf ein noch größeres Netzwerk.

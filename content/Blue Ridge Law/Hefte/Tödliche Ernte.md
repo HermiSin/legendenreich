@@ -24,7 +24,7 @@ Ein Apfelbaron wird ermordet. Der Saisonarbeiter [[Mateo Juarez]] gerät zu Unre
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Nebenfiguren

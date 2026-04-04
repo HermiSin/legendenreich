@@ -5,7 +5,7 @@ description: "Verteidigungsanwalt in Oakhaven. Brillant, zerzaust, mit dem Insti
 aliases: [Ollie, Oliver Thorne, Ollie Thorne]
 ---
 
-> [!infobox] Oliver "Ollie" Thorne
+> [!infobox] Oliver (Ollie) Thorne
 > | | |
 > |---|---|
 > | **Serie** | [[Blue Ridge Law]] |
@@ -15,7 +15,7 @@ aliases: [Ollie, Oliver Thorne, Ollie Thorne]
 > | **Partner** | [[Caleb Vance]] |
 > | **Erstes Auftreten** | Heft 1: [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven\|Sündenfall in Oakhaven]] |
 
-**Oliver "Ollie" Thorne** ist einer der beiden Protagonisten der Serie **[[Blue Ridge Law]]**. Er ist Verteidigungsanwalt in Oakhaven, Virginia.
+**Oliver (Ollie) Thorne** ist einer der beiden Protagonisten der Serie **[[Blue Ridge Law]]**. Er ist Verteidigungsanwalt in Oakhaven, Virginia.
 
 ## Hintergrund
 

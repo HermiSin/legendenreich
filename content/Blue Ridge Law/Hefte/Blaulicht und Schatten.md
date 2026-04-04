@@ -22,7 +22,7 @@ description: "Blue Ridge Law Heft 7. Grabräuberei und Beweisfälschung."
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Fallfiguren

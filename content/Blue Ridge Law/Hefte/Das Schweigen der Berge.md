@@ -19,12 +19,12 @@ description: "Blue Ridge Law Heft 3. Der Mord an Miles Keller und ein stummer Ei
 
 ## Handlung
 
-Miles Keller wird ermordet. Der stumme Einsiedler [[Silas]] gerät unter Verdacht. [[Oliver "Ollie" Thorne|Ollie]] übernimmt seine Verteidigung. Die 16-jährige Ausreißerin [[Mia]] wird zur Kronzeugin. [[Bartholomew "Bart" Stone|Bart Stone]] wird als wahrer Mörder entlarvt und verhaftet.
+Miles Keller wird ermordet. Der stumme Einsiedler [[Silas]] gerät unter Verdacht. [[Oliver (Ollie) Thorne|Ollie]] übernimmt seine Verteidigung. Die 16-jährige Ausreißerin [[Mia]] wird zur Kronzeugin. [[Bartholomew (Bart) Stone|Bart Stone]] wird als wahrer Mörder entlarvt und verhaftet.
 
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Nebenfiguren
@@ -32,4 +32,4 @@ Miles Keller wird ermordet. Der stumme Einsiedler [[Silas]] gerät unter Verdach
 - [[Mia]]
 
 ### Fallfiguren
-- [[Bartholomew "Bart" Stone]] — Mörder von Miles Keller, verhaftet
+- [[Bartholomew (Bart) Stone]] — Mörder von Miles Keller, verhaftet

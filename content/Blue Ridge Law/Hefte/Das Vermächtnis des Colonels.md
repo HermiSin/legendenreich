@@ -22,7 +22,7 @@ description: "Blue Ridge Law Heft 5. Der Tod eines Colonels und 30 Jahre Tagebü
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Nebenfiguren

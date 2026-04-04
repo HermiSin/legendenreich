@@ -22,7 +22,7 @@ Das Oakhaven Grand Cinema geht in Flammen auf. Kinobesitzer [[Lenny Calhoun]] wi
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Fallfiguren

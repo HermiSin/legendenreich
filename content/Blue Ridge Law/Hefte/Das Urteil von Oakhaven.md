@@ -17,18 +17,18 @@ description: "Blue Ridge Law Heft 10. Der Blackwood-Prozess."
 
 ## Handlung
 
-Der Blackwood-Prozess. [[Oliver "Ollie" Thorne|Ollie]] und [[Caleb Vance|Caleb]] treten Seite an Seite vor Gericht. [[Warren Blackwood Jr.]] wird Kronzeuge gegen seinen Vater. [[Howard "Howie" Pruitt]], alter Soldat und Vertrauensperson des Colonels, liefert eine entscheidende Videoaussage und stirbt friedlich am Tag des Urteils. [[Warren Blackwood Sr.]] wird in 18 Anklagepunkten schuldig gesprochen. [[Richter Higgins]] wird zu 13 Jahren verurteilt. [[Generalstaatsanwalt Crawford]] wird suspendiert. [[Bartholomew "Bart" Stone|Bart Stone]] bricht sein Schweigen: "Die Blackwoods waren nur Soldaten."
+Der Blackwood-Prozess. [[Oliver (Ollie) Thorne|Ollie]] und [[Caleb Vance|Caleb]] treten Seite an Seite vor Gericht. [[Warren Blackwood Jr.]] wird Kronzeuge gegen seinen Vater. [[Howard "Howie" Pruitt]], alter Soldat und Vertrauensperson des Colonels, liefert eine entscheidende Videoaussage und stirbt friedlich am Tag des Urteils. [[Warren Blackwood Sr.]] wird in 18 Anklagepunkten schuldig gesprochen. [[Richter Higgins]] wird zu 13 Jahren verurteilt. [[Generalstaatsanwalt Crawford]] wird suspendiert. [[Bartholomew (Bart) Stone|Bart Stone]] bricht sein Schweigen: "Die Blackwoods waren nur Soldaten."
 
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Fallfiguren
 - [[Warren Blackwood Sr.]] — Schuldig in 18 Anklagepunkten
 - [[Warren Blackwood Jr.]] — Kronzeuge
-- [[Bartholomew "Bart" Stone]] — Bricht sein Schweigen
+- [[Bartholomew (Bart) Stone]] — Bricht sein Schweigen
 - [[Howard "Howie" Pruitt]] — Entscheidende Videoaussage
 - [[Karen Chen]] — SBI-Sonderberaterin, führt Anklage
 - [[Generalstaatsanwalt Crawford]] — Unter Blackwood-Einfluss, suspendiert

@@ -20,11 +20,11 @@ tags:
 > | **Tropes** | Enemies-to-Lovers, Second Chance, Slow Burn, Small Town, Legal Drama |
 > | **Verlag** | Fünfgroschenverlag |
 
-**Blue Ridge Law — Ein Fall für zwei** ist eine MM-Legal-Romance-Serie des Fünfgroschenverlags. Sie erzählt die Geschichte von [[Oliver "Ollie" Thorne]], einem brillanten Verteidigungsanwalt, und [[Caleb Vance]], dem District Attorney von Oakhaven, Virginia — im Gerichtssaal erbitterte Gegner, privat ehemalige Jugendliebe.
+**Blue Ridge Law — Ein Fall für zwei** ist eine MM-Legal-Romance-Serie des Fünfgroschenverlags. Sie erzählt die Geschichte von [[Oliver (Ollie) Thorne]], einem brillanten Verteidigungsanwalt, und [[Caleb Vance]], dem District Attorney von Oakhaven, Virginia — im Gerichtssaal erbitterte Gegner, privat ehemalige Jugendliebe.
 
 ## Prämisse
 
-In der Kleinstadt Oakhaven, eingebettet in die Blue Ridge Mountains von Virginia, kreuzen zwei Anwälte die Klingen. [[Oliver "Ollie" Thorne|Ollie]] — zerzaust, in Tweed-Sakkos, mit dem Instinkt eines Matlock — verteidigt die Unterschätzten. [[Caleb Vance|Caleb]] — diszipliniert, scharfzüngig, in maßgeschneiderten Anzügen — verfolgt die Gerechtigkeit als Staatsanwalt. Was niemand weiß: Sie waren einander einmal alles.
+In der Kleinstadt Oakhaven, eingebettet in die Blue Ridge Mountains von Virginia, kreuzen zwei Anwälte die Klingen. [[Oliver (Ollie) Thorne|Ollie]] — zerzaust, in Tweed-Sakkos, mit dem Instinkt eines Matlock — verteidigt die Unterschätzten. [[Caleb Vance|Caleb]] — diszipliniert, scharfzüngig, in maßgeschneiderten Anzügen — verfolgt die Gerechtigkeit als Staatsanwalt. Was niemand weiß: Sie waren einander einmal alles.
 
 Jedes Heft erzählt einen abgeschlossenen Kriminalfall, während sich die Romanze zwischen den beiden über die Serie entfaltet. Ein Cold Case von 1994 verbindet alles — und führt in die dunkelsten Ecken von Oakhavens vermeintlicher Idylle.
 
@@ -34,7 +34,7 @@ Jedes Heft erzählt einen abgeschlossenen Kriminalfall, während sich die Romanz
 
 | Figur | Rolle |
 |-------|-------|
-| [[Oliver "Ollie" Thorne]] | Verteidigungsanwalt |
+| [[Oliver (Ollie) Thorne]] | Verteidigungsanwalt |
 | [[Caleb Vance]] | District Attorney |
 
 ### Wichtige Nebenfiguren
@@ -53,7 +53,7 @@ Jedes Heft erzählt einen abgeschlossenen Kriminalfall, während sich die Romanz
 
 - [[Warren Blackwood Sr.]] — Pensionierter Bezirksrichter, Drahtzieher
 - [[Warren Blackwood Jr.]] — Sohn des Richters, sein verlängerter Arm
-- [[Bartholomew "Bart" Stone]] — Anwalt/Fixer, Mörder von Miles Keller
+- [[Bartholomew (Bart) Stone]] — Anwalt/Fixer, Mörder von Miles Keller
 - [[Derek Holloway]] — Großstadtanwalt aus D.C., Calebs ehemaliger Mentor
 
 ## Hefte

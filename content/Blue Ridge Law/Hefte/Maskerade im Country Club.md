@@ -22,7 +22,7 @@ description: "Blue Ridge Law Heft 9. Mord auf der Gala."
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Fallfiguren

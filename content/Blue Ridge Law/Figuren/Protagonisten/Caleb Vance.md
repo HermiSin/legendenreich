@@ -12,18 +12,18 @@ aliases: [Caleb]
 > | **Rolle** | Protagonist |
 > | **Beruf** | District Attorney |
 > | **Ort** | Oakhaven, Virginia |
-> | **Partner** | [[Oliver "Ollie" Thorne]] |
+> | **Partner** | [[Oliver (Ollie) Thorne]] |
 > | **Erstes Auftreten** | Heft 1: [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven\|Sündenfall in Oakhaven]] |
 
 **Caleb Vance** ist einer der beiden Protagonisten der Serie **[[Blue Ridge Law]]**. Er ist der District Attorney von Oakhaven, Virginia.
 
 ## Hintergrund
 
-Caleb ist diszipliniert, scharfzüngig und trägt maßgeschneiderte Anzüge. Er war Highschool-Footballstar in Oakhaven und Ollies Jugendliebe. Nach einem Burnout in Washington D.C. kehrte er in seine Heimatstadt zurück, um als District Attorney die Seiten zu wechseln — vom Großstadt-Recht zur Kleinstadtjustiz. Bei [[Oliver "Ollie" Thorne|Ollie]] verliert er seine Beherrschung.
+Caleb ist diszipliniert, scharfzüngig und trägt maßgeschneiderte Anzüge. Er war Highschool-Footballstar in Oakhaven und Ollies Jugendliebe. Nach einem Burnout in Washington D.C. kehrte er in seine Heimatstadt zurück, um als District Attorney die Seiten zu wechseln — vom Großstadt-Recht zur Kleinstadtjustiz. Bei [[Oliver (Ollie) Thorne|Ollie]] verliert er seine Beherrschung.
 
 ## Beziehungen
 
-- **[[Oliver "Ollie" Thorne]]** — seine Jugendliebe und Gegner im Gerichtssaal. Was als Second Chance begann, wird zur unaufhaltsamen Wiederannäherung.
+- **[[Oliver (Ollie) Thorne]]** — seine Jugendliebe und Gegner im Gerichtssaal. Was als Second Chance begann, wird zur unaufhaltsamen Wiederannäherung.
 - **[[Derek Holloway]]** — sein ehemaliger Mentor in D.C. Caleb erkennt erst spät, wie tief Holloways Korruption reicht.
 - **[[Deputy Jake Harmon]]** — Highschool-Freund und Vertrauensperson bei der Polizei.
 - **[[Mia]]** — Teil der Familie im Farmhaus.

@@ -19,12 +19,12 @@ description: "Blue Ridge Law Heft 1. Kirchendiebstahl und ein Angriff auf Mrs. G
 
 ## Handlung
 
-Ein Kirchendiebstahl und ein Angriff auf [[Martha Gable|Mrs. Gable]] erschüttern Oakhaven. [[Pfarrer Arthur Miller]] gerät unter Verdacht. [[Oliver "Ollie" Thorne|Ollie]] übernimmt die Verteidigung, [[Caleb Vance|Caleb]] die Anklage — und zum ersten Mal seit Jahren stehen sich die beiden ehemaligen Jugendlieben im Gerichtssaal gegenüber.
+Ein Kirchendiebstahl und ein Angriff auf [[Martha Gable|Mrs. Gable]] erschüttern Oakhaven. [[Pfarrer Arthur Miller]] gerät unter Verdacht. [[Oliver (Ollie) Thorne|Ollie]] übernimmt die Verteidigung, [[Caleb Vance|Caleb]] die Anklage — und zum ersten Mal seit Jahren stehen sich die beiden ehemaligen Jugendlieben im Gerichtssaal gegenüber.
 
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Nebenfiguren

@@ -17,12 +17,12 @@ description: "Blue Ridge Law Heft 8. Ollie vor der Bar Association."
 
 ## Handlung
 
-[[Derek Holloway]]s Gegenangriff: Über seine Schülerin [[Sandra Crane]] wird eine Beschwerde gegen [[Oliver "Ollie" Thorne|Ollie]] bei der Bar Association eingereicht. [[Diane Lockhart-Shaw]], Anwältin aus Georgetown, übernimmt Ollies Verteidigung. Der Fotograf [[Neal Garrity]] verfolgte Ollie im Auftrag von Piedmont/Blackwood. Ollie wird rehabilitiert.
+[[Derek Holloway]]s Gegenangriff: Über seine Schülerin [[Sandra Crane]] wird eine Beschwerde gegen [[Oliver (Ollie) Thorne|Ollie]] bei der Bar Association eingereicht. [[Diane Lockhart-Shaw]], Anwältin aus Georgetown, übernimmt Ollies Verteidigung. Der Fotograf [[Neal Garrity]] verfolgte Ollie im Auftrag von Piedmont/Blackwood. Ollie wird rehabilitiert.
 
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Fallfiguren

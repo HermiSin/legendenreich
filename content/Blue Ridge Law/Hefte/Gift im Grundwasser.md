@@ -17,12 +17,12 @@ description: "Blue Ridge Law Heft 4. Grundwasservergiftung und Umweltskandal."
 
 ## Handlung
 
-Der 5-jährige [[Tyler Hargrove]] erleidet Nierenversagen — die Ursache: vergiftetes Grundwasser. [[Oliver "Ollie" Thorne|Ollie]] und [[Caleb Vance|Caleb]] decken eine Vertuschung auf, die bis zu Calebs ehemaligem Mentor [[Derek Holloway]] in Washington D.C. reicht. Die Shenandoah Chemical Works und ihr Fabrikdirektor [[Carl Whitaker]] stehen im Zentrum des Umweltskandals.
+Der 5-jährige [[Tyler Hargrove]] erleidet Nierenversagen — die Ursache: vergiftetes Grundwasser. [[Oliver (Ollie) Thorne|Ollie]] und [[Caleb Vance|Caleb]] decken eine Vertuschung auf, die bis zu Calebs ehemaligem Mentor [[Derek Holloway]] in Washington D.C. reicht. Die Shenandoah Chemical Works und ihr Fabrikdirektor [[Carl Whitaker]] stehen im Zentrum des Umweltskandals.
 
 ## Figuren
 
 ### Protagonisten
-- [[Oliver "Ollie" Thorne]]
+- [[Oliver (Ollie) Thorne]]
 - [[Caleb Vance]]
 
 ### Fallfiguren
