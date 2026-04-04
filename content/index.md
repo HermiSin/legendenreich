@@ -56,6 +56,13 @@ Neo-Western MM Romance im fiktiven Bitterroot Valley, Montana. Zwei verfeindete 
 
 **15 Hefte** · Bitterroot Valley, Montana · [[Kings of Montana#Hefte|Alle Hefte →]]
 
+### [[Sturm über Gut Falkenau]]
+*Zwischen Pflicht und Verlangen. Zwischen einem Grafen und seinem Förster steht das Gesetz.*
+
+Historical MM Romance im Deutschen Kaiserreich. Als der sensible Grafensohn Max wider Willen das raue Familiengut in Ostpreußen übernimmt, ist der schweigsame Oberförster Hannes sein einziger Halt. Verbotene Liebe unter dem Damoklesschwert des § 175.
+
+**3 Hefte** · Masuren/Ostpreußen, 1912--1914 · [[Sturm über Gut Falkenau#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
 - Schattenfrequenz Berlin 86
@@ -69,7 +76,8 @@ Neo-Western MM Romance im fiktiven Bitterroot Valley, Montana. Zwei verfeindete 
 - **[[Blue Ridge Law]]** — 10 Hefte, Legal Romance in Oakhaven, Virginia
 - **[[Wilde Herzen]]** -- 9 Hefte, Historical Western Romance im Wilden Westen
 - **[[Kings of Montana]]** -- 15 Hefte, Neo-Western Romance im Bitterroot Valley
-- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]] · [[Kings of Montana/Hefte/Blutiger Boden|Kings of Montana (15 Hefte)]]
+- **[[Sturm über Gut Falkenau]]** -- 3 Hefte, Historical Romance im Kaiserreich
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]] · [[Kings of Montana/Hefte/Blutiger Boden|Kings of Montana (15 Hefte)]] · [[Sturm über Gut Falkenau/Hefte/Der fremde Graf|Sturm über Gut Falkenau (3 Hefte)]]
 
 ## Über den Verlag
 
