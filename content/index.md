@@ -63,6 +63,13 @@ Historical MM Romance im Deutschen Kaiserreich. Als der sensible Grafensohn Max 
 
 **3 Hefte** · Masuren/Ostpreußen, 1912--1914 · [[Sturm über Gut Falkenau#Hefte|Alle Hefte →]]
 
+### [[Die Burschenschaft der Geheimnisse]]
+*In diesen Hallen wird aus Blut Gold gemacht.*
+
+Dark Academia MM Romance im Corps Rheno-Borussia in Heidelberg. Der adlige Erstchargierte Max von Zitzewitz und der bürgerliche Stipendiat Julian Richter -- zwischen Mensur, Paukstunden und einem dunklen Geheimnis entsteht verbotene Liebe.
+
+**1 Heft** · Heidelberg, Corps Rheno-Borussia · [[Die Burschenschaft der Geheimnisse#Hefte|Alle Hefte →]]
+
 ### Weitere Serien
 *Bald im Legendenreich:*
 - Schattenfrequenz Berlin 86
@@ -77,7 +84,8 @@ Historical MM Romance im Deutschen Kaiserreich. Als der sensible Grafensohn Max 
 - **[[Wilde Herzen]]** -- 9 Hefte, Historical Western Romance im Wilden Westen
 - **[[Kings of Montana]]** -- 15 Hefte, Neo-Western Romance im Bitterroot Valley
 - **[[Sturm über Gut Falkenau]]** -- 3 Hefte, Historical Romance im Kaiserreich
-- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]] · [[Kings of Montana/Hefte/Blutiger Boden|Kings of Montana (15 Hefte)]] · [[Sturm über Gut Falkenau/Hefte/Der fremde Graf|Sturm über Gut Falkenau (3 Hefte)]]
+- **[[Die Burschenschaft der Geheimnisse]]** -- 1 Heft, Dark Academia Romance in Heidelberg
+- **Hefte** — [[Soulmates/Hefte/Der erste Faden|Soulmates (8 Hefte)]] · [[Spartan Blood/Hefte/Der Befehl des Generals|Spartan Blood (24 Hefte)]] · [[Amor Romanus/Hefte/Der Silberring des Erben|Amor Romanus (29 Hefte)]] · [[Blue Ridge Law/Hefte/Sündenfall in Oakhaven|Blue Ridge Law (10 Hefte)]] · [[Wilde Herzen/Hefte/Der neue Sheriff von Silver Creek|Wilde Herzen (9 Hefte)]] · [[Kings of Montana/Hefte/Blutiger Boden|Kings of Montana (15 Hefte)]] · [[Sturm über Gut Falkenau/Hefte/Der fremde Graf|Sturm über Gut Falkenau (3 Hefte)]] · [[Die Burschenschaft der Geheimnisse/Hefte/Das Erbe der Schatten|Die Burschenschaft der Geheimnisse (1 Heft)]]
 
 ## Über den Verlag
 
